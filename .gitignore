@@ -10,6 +10,8 @@
 /test/version_tmp/
 /tmp/
 
+curl
+secrets.yaml
 # Used by dotenv library to load environment variables.
 # .env
 
